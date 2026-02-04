@@ -1,0 +1,20 @@
+- name: "Open Research Toolkit"
+  description: "A reproducible pipeline for data ingestion, experiment tracking, and paper-ready plots."
+  role: "Lead developer"
+  highlights:
+    - "Reduced experiment setup time from days to hours with standardized configs."
+    - "Automated LaTeX table and figure export for manuscripts."
+  tech: ["Python", "Docker", "MLflow"]
+  links:
+    github: "#"
+    demo: "#"
+
+- name: "Human-in-the-Loop Annotation Studio"
+  description: "Web app for rapid labeling with active learning and quality controls."
+  role: "Full-stack engineer"
+  highlights:
+    - "Integrated uncertainty sampling and reviewer workflows."
+  tech: ["TypeScript", "React", "FastAPI"]
+  links:
+    github: "#"
+    paper: "#"

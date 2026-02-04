@@ -1,0 +1,19 @@
+- role: "Research Intern"
+  org: "Example Research Lab"
+  start: "Jun 2025"
+  end: "Aug 2025"
+  location: "Remote"
+  summary: "Worked on retrieval-augmented generation for scientific writing assistants."
+  bullets:
+    - "Built a benchmark suite for literature grounding."
+    - "Improved retrieval accuracy by 18% over baseline."
+
+- role: "Graduate Research Assistant"
+  org: "Your University"
+  start: "Sep 2022"
+  end: "Present"
+  location: "City, Country"
+  summary: "Focus on machine learning systems and human-AI collaboration."
+  bullets:
+    - "Led a team of 3 on dataset curation and evaluation."
+    - "Published 2 first-author papers in top venues."

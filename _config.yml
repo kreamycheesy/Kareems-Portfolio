@@ -1,0 +1,53 @@
+# Jekyll site config
+
+title: "Your Name"
+description: "Academic portfolio"
+url: ""
+baseurl: ""
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+permalink: /:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+      permalink: /:name/
+
+# Build settings
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Navbar links
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Papers"
+    url: "/papers/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Experience"
+    url: "/experience/"
+  - title: "Resume"
+    url: "/resume/"
+
+# Profile info
+profile:
+  name: "Your Name"
+  title: "PhD Candidate in Computer Science"
+  affiliation: "Your University"
+  email: "you@university.edu"
+  location: "City, Country"
+  website: "https://yourdomain.com"
+  github: "https://github.com/yourname"
+  scholar: "https://scholar.google.com"
+  headshot: "/assets/img/headshot.svg"
+
+# Footer
+footer_note: "Updated February 2026"
