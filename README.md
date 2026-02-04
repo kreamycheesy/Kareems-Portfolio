@@ -8,6 +8,7 @@ Academic portfolio site built with Jekyll (al-folio-inspired).
 - Edit content in `_data/publications.yml`, `_data/projects.yml`, `_data/experience.yml`.
 - Replace `assets/img/headshot.svg` with your photo.
 - Replace `assets/resume.pdf` with your resume PDF.
+- Tweak styling in `assets/css/main.css`.
 
 ## GitHub Pages
 

@@ -12,9 +12,7 @@ kramdown:
 permalink: pretty
 
 # Build settings
-sass:
-  sass_dir: _sass
-  style: compressed
+# Sass disabled (using a static CSS file in assets/css/main.css)
 
 # Navbar links
 nav:
