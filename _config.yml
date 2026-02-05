@@ -1,9 +1,9 @@
 # Jekyll site config
 
-title: "Your Name"
-description: "Academic portfolio"
-url: "https://jpl11.github.io"
-baseurl: "/portfolio-template"
+title: "Kareem Jamal"
+description: "A collection of my past work and internship research, as well as my previous and current projects I am working on."
+url: "https://github.com/kreamycheesy"
+baseurl: "/Kareems-Portfolio"
 
 markdown: kramdown
 kramdown:
